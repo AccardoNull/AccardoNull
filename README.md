@@ -45,4 +45,4 @@ I'm a Computer Science and Mathematics student interested in full stack software
 
 ### Crown Crow, A Ludum Dare Game Jam Entry
 - https://github.com/emmadilemma320/ludum_dare_/
-- Game Entry developed by a 4-person team of UVic Game Dev Club members in Godot for Ludum Dare Game Jam #58.
+- Side-scrolling game developed by a 4-person team of UVic Game Dev Club members in Godot for Ludum Dare Game Jam #58.
