@@ -44,5 +44,5 @@ I'm a Computer Science and Mathematics student interested in full stack software
 - 5-person team project designing a road construction alert user interface, including HTML website demo.
 
 ### Crown Crow, A Ludum Dare Game Jam Entry
-- https://github.com/emmadilemma320/ludum_dare_
+- https://github.com/emmadilemma320/ludum_dare_/
 - Game Entry developed by a 4-person team of UVic Game Dev Club members in Godot for Ludum Dare Game Jam #58.
