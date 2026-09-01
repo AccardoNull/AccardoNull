@@ -28,17 +28,17 @@ I'm a Computer Science and Mathematics student interested in full stack software
 ## 🚀 Featured Projects
 
 ### Image Search & Utility Platform
-https://github.com/AccardoNull/Image-Search-and-Utility-Platform
-Full-stack image search and conversion platform built with React, Python, and FastAPI.
+- https://github.com/AccardoNull/Image-Search-and-Utility-Platform  
+- Full-stack image search and conversion platform built with React, Python, and FastAPI.
 
 ### Climate Change & Natural Disaster Analysis
-https://github.com/AccardoNull/Climate-Change-Natural-Disaster-Impact-Analytics
-Python ETL and Tableau analytics project integrating climate and natural-disaster datasets.
+- https://github.com/AccardoNull/Climate-Change-Natural-Disaster-Impact-Analytics  
+- Python ETL and Tableau analytics project integrating climate and natural-disaster datasets.
 
 ### E-Commerce SQL Analytics Database
-https://github.com/AccardoNull/E-Commerce-SQL-Analytics
-Relational database with e-commerce operation records modeled using SQL and PostgreSQL.
+- https://github.com/AccardoNull/E-Commerce-SQL-Analytics  
+- Relational database with e-commerce operation records modeled using SQL and PostgreSQL.
 
 ### Construction Alert Interface
-https://github.com/AccardoNull/Construction-Alert-Notification-System
-5-person team project designing a road construction alert user interface, including HTML website demo.
+- https://github.com/AccardoNull/Construction-Alert-Notification-System  
+- 5-person team project designing a road construction alert user interface, including HTML website demo.
