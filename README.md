@@ -18,7 +18,7 @@ I'm a Computer Science and Mathematics student interested in full stack software
 
 ## 🛠 Technical Skills
 
-- **Languages:** Python, JavaScript, SQL, HTML, CSS, C#, C++
+- **Languages:** Python, JavaScript, SQL, HTML, CSS, C#, C++, GDScript
 - **Frontend:** React.js
 - **Backend:** FastAPI
 - **Database:** PostgreSQL
